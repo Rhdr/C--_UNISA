@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\company.o
+./release\companyprofit.o
+./release\companynonprofit.o
+./release\serializer.o
+./release\moc_mainwindow.o
+./release\moc_company.o
+./release\moc_companyprofit.o
+./release\moc_companynonprofit.o
+);

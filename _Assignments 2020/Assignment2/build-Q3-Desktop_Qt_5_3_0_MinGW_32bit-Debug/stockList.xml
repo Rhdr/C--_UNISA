@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<stockList>
+    <stockItem type="Confectionery">
+        <Item>Candy</Item>
+        <Quantity>33</Quantity>
+        <Weight>10</Weight>
+    </stockItem>
+    <stockItem type="Confectionery">
+        <Item>Sweetroll</Item>
+        <Quantity>24</Quantity>
+        <Weight>44</Weight>
+    </stockItem>
+    <stockItem type="Confectionery">
+        <Item>Choclate</Item>
+        <Quantity>13</Quantity>
+        <Weight>12</Weight>
+    </stockItem>
+    <stockItem type="ReadingMaterial">
+        <Item>The Star</Item>
+        <Quantity>12</Quantity>
+        <Frequency>High</Frequency>
+    </stockItem>
+    <stockItem type="ReadingMaterial">
+        <Item>Startrek</Item>
+        <Quantity>16</Quantity>
+        <Frequency>Med</Frequency>
+    </stockItem>
+    <stockItem type="ReadingMaterial">
+        <Item>Starbugs</Item>
+        <Quantity>9</Quantity>
+        <Frequency>Low</Frequency>
+    </stockItem>
+</stockList>

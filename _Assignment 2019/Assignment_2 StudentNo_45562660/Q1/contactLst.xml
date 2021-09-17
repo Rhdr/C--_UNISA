@@ -1,0 +1,51 @@
+
+<object class="ContactList" name="" >
+
+   <object class="Contact" name="" >
+     <property name="pk" type="int" value="0" />
+     <property name="category" type="int" value="0" />
+     <property name="firstName" type="QString" value="Peter" />
+     <property name="lastName" type="QString" value="Pan" />
+     <property name="streetAddress" type="QString" value="Treehouse 3" />
+     <property name="zipCode" type="QString" value="29228" />
+     <property name="city" type="QString" value="Neverland" />
+     <property name="phoneNumber" type="QString" value="38383838383" />
+   </object>
+
+
+   <object class="Contact" name="" >
+     <property name="pk" type="int" value="1" />
+     <property name="category" type="int" value="1" />
+     <property name="firstName" type="QString" value="Micky" />
+     <property name="lastName" type="QString" value="Mouse" />
+     <property name="streetAddress" type="QString" value="Hole 321" />
+     <property name="zipCode" type="QString" value="3938" />
+     <property name="city" type="QString" value="Disney" />
+     <property name="phoneNumber" type="QString" value="9382282882" />
+   </object>
+
+
+   <object class="Contact" name="" >
+     <property name="pk" type="int" value="2" />
+     <property name="category" type="int" value="1" />
+     <property name="firstName" type="QString" value="Minni" />
+     <property name="lastName" type="QString" value="Mouse" />
+     <property name="streetAddress" type="QString" value="Hole320" />
+     <property name="zipCode" type="QString" value="23393" />
+     <property name="city" type="QString" value="Disney" />
+     <property name="phoneNumber" type="QString" value="393938282828" />
+   </object>
+
+
+   <object class="Contact" name="" >
+     <property name="pk" type="int" value="3" />
+     <property name="category" type="int" value="2" />
+     <property name="firstName" type="QString" value="Super" />
+     <property name="lastName" type="QString" value="Man" />
+     <property name="streetAddress" type="QString" value="York 3838" />
+     <property name="zipCode" type="QString" value="39393" />
+     <property name="city" type="QString" value="New York" />
+     <property name="phoneNumber" type="QString" value="48484848473" />
+   </object>
+
+</object>

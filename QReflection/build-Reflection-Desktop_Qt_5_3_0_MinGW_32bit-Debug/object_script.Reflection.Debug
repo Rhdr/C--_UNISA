@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\vehicle.o
+./debug\vehiclepassanger.o
+./debug\vehicletransport.o
+./debug\vehiclelist.o
+./debug\filewriter.o
+./debug\moc_vehicle.o
+./debug\moc_vehiclepassanger.o
+./debug\moc_vehicletransport.o
+./debug\moc_vehiclelist.o
+);

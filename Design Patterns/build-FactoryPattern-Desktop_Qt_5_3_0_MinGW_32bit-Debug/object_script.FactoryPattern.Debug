@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\entity.o
+./debug\entity_landowner.o
+./debug\entity_employee.o
+./debug\entity_abstractfactory.o
+./debug\entity_factory.o
+./debug\moc_entity.o
+./debug\moc_entity_landowner.o
+./debug\moc_entity_employee.o
+./debug\moc_entity_abstractfactory.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\company.o
+./debug\companyprofit.o
+./debug\companynonprofit.o
+./debug\serializer.o
+./debug\companylst.o
+./debug\moc_mainwindow.o
+./debug\moc_company.o
+./debug\moc_companyprofit.o
+./debug\moc_companynonprofit.o
+./debug\moc_serializer.o
+./debug\moc_companylst.o
+);

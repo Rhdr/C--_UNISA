@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\heart.o
+./release\arm.o
+./release\armorganic.o
+./release\heartorganic.o
+./release\heartrobotic.o
+./release\armrobotic.o
+./release\factoryabstract_humanoid.o
+./release\factory_humanoidorganic.o
+./release\factory_humanoidrobotic.o
+./release\moc_heart.o
+./release\moc_arm.o
+./release\moc_factoryabstract_humanoid.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\heart.o
+./debug\arm.o
+./debug\armorganic.o
+./debug\heartorganic.o
+./debug\heartrobotic.o
+./debug\armrobotic.o
+./debug\factoryabstract_humanoid.o
+./debug\factory_humanoidorganic.o
+./debug\factory_humanoidrobotic.o
+./debug\moc_heart.o
+./debug\moc_arm.o
+./debug\moc_factoryabstract_humanoid.o
+);

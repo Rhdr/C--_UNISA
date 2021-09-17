@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\vehicle.o
+./release\vehiclepassanger.o
+./release\vehicletransport.o
+./release\vehiclelist.o
+./release\filewriter.o
+./release\moc_vehicle.o
+./release\moc_vehiclepassanger.o
+./release\moc_vehicletransport.o
+./release\moc_vehiclelist.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\entity.o
+./release\entity_landowner.o
+./release\entity_employee.o
+./release\entity_abstractfactory.o
+./release\entity_factory.o
+./release\moc_entity.o
+./release\moc_entity_landowner.o
+./release\moc_entity_employee.o
+./release\moc_entity_abstractfactory.o
+);

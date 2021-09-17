@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\stock.o
+./debug\confectionery.o
+./debug\readingmaterial.o
+./debug\stockfactory.o
+./debug\abstractstockfactory.o
+./debug\stocklist.o
+./debug\moc_stock.o
+./debug\moc_confectionery.o
+./debug\moc_readingmaterial.o
+./debug\moc_abstractstockfactory.o
+);

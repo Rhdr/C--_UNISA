@@ -1,0 +1,3 @@
+Name(Abx), Type(Non Profit), Date(2003.Jan.01), Charitable(True)
+Name(TEX), Type(Profit), Date(2010.Feb.23), Employees(345)
+Name(UIC), Type(Non Profit), Date(2010.Feb.23), Charitable(False)

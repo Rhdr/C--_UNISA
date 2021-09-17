@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\stock.o
+./release\confectionery.o
+./release\readingmaterial.o
+./release\stockfactory.o
+./release\abstractstockfactory.o
+./release\stocklist.o
+./release\xmlstreamwriter.o
+./release\xmlstreamreader.o
+./release\saxhandler.o
+./release\saxreader.o
+./release\moc_stock.o
+./release\moc_confectionery.o
+./release\moc_readingmaterial.o
+./release\moc_abstractstockfactory.o
+);
